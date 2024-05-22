@@ -5,10 +5,11 @@
 
 1. Clone the repository
    ```bash
-   .type the command in the terminal : git clone <repository-url>
-   after type cd <folder-name>
-   after type npm install 
-   after successful installation type command npm start
+   .open the terminal in local and paste this : git clone https://github.com/Amir965/spyne-frontend-assignment
+   after type: cd spyne-frontend-assignment
+   after that type: npm install 
+   after successful installation type: npm start
+   after the few seconds the app is running on the browser
 
 TECHNICAL DECISIONS:
 1.ReactJS: Chosen for its component-based architecture and ease of managing state.
