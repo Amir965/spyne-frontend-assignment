@@ -5,8 +5,8 @@
 
 1. Clone the repository
    ```bash
-   .open the terminal in local and paste this : git clone https://github.com/Amir965/spyne-frontend-assignment
-   after type: cd spyne-frontend-assignment
+   .open the terminal in local and paste this : git clone https://github.com/Amir965/spyne-frontend-assignment.git
+   after type: cd spyne-frontend-assignment 
    after that type: npm install 
    after successful installation type: npm start
    after the few seconds the app is running on the browser
